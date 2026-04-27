@@ -1,1 +1,7 @@
 project1pcv/
+restoration.py
+restoration2.py
+restoration_notebook.ipynb
+main.py
+__pycache__/
+*.pyc
