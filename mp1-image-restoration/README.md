@@ -62,11 +62,7 @@ Unsharp Masking bekerja dengan mengekstrak detail garis tepi (edges) dari gambar
 
 ## Perbandingan Visual
 
-### Sebelum vs Sesudah
-
-![Perbandingan](output/comparison.png)
-
-### Setiap Tahap Pipeline
+### Sebelum hingga sesudah dan tahapannya
 
 ![Pipeline](output/pipeline_steps.png)
 
